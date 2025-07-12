@@ -1,1 +1,1 @@
-# Scarab
+Scarab : Autonomous RC Soccer Car
