@@ -24,9 +24,8 @@ Scarab is a project I have been wanting to work on for over a year now, and this
 
 ## 📸 Dev Log
 Created a Python script w/ OpenCV to track a blue ping pong ball, and send controls to the arduino to keep the ball centered
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/3_tracking.gif" alt="pi tracking ping pong ball" height="200"/>
-</div>
+![Tracking GIF](images/3_tracking.gif)
+
 ### June 7, 2025
 Tested serial communication between the pi and arduino for the first time with a little circuit (left of camera -> red, right of camera -> blue)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
