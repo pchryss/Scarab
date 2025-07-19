@@ -30,12 +30,12 @@ Created a Python script w/ OpenCV to track a blue ping pong ball, and send contr
 ### June 7, 2025
 Tested serial communication between the pi and arduino for the first time with a little circuit (left of camera -> red, right of camera -> blue)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/2_red.png" alt="raspi with arduino red" height="200"/>
-  <img src="images/2_blue.png" alt="raspi with arduino red" height="200"/>
+  <img src="images/2_red.PNG" alt="raspi with arduino red" height="200"/>
+  <img src="images/2_blue.PNG" alt="raspi with arduino red" height="200"/>
 </div>
 
 ### May 26, 2025
 Set up Raspberry Pi and used the camera for the first time (so cool)!
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/1_camera.png" alt="Arduino camera" height="200"/>
+  <img src="images/1_camera.jpg" alt="Arduino camera" height="200"/>
 </div>
