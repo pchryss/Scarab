@@ -23,10 +23,22 @@ Scarab is a project I have been wanting to work on for over a year now, and this
 * Transfer the model to Scarab and fine tune in the real world using CV
 
 ## 📸 Dev Log
-Created a Python script w/ OpenCV to track a blue ping pong ball, and send controls to the arduino to keep the ball centered
-![Tracking GIF](images/3_tracking.gif)
+
+### June 27, 2025
+Bought a 3D printer! It took a couple days to get consistently good prints, but I ended up with a solid print of a car chassis I found online
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/4_printer.png" alt="raspi with arduino red" height="200"/>
+  <img src="images/4_prints.png" alt="raspi with arduino red" height="200"/>
+  <img src="images/4_chassis.png" alt="raspi with arduino red" height="200"/>
+</div>
 
 ### June 7, 2025
+Created a Python script w/ OpenCV to track a blue ping pong ball, and send controls to the arduino to keep the ball centered
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/3_tracking.gif" alt="pi tracking ping pong ball" height="200"/>
+</div>
+
+### June 6, 2025
 Tested serial communication between the pi and arduino for the first time with a little circuit (left of camera -> red, right of camera -> blue)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="images/2_red.PNG" alt="raspi with arduino red" height="200"/>
