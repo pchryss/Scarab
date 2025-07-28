@@ -35,7 +35,8 @@ Bought a 3D printer! It took a couple days to get consistently good prints, but 
 ### June 7, 2025
 Created a Python script w/ OpenCV to track a blue ping pong ball, and send controls to the arduino to keep the ball centered
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/3_tracking.gif" alt="pi tracking ping pong ball" height="200"/>
+  <img src="images/3_tracking1.png" alt="pi tracking ping pong ball" height="200"/>
+  <img src="images/3_tracking2.png" alt="pi tracking ping pong ball" height="200"/>
 </div>
 
 ### June 6, 2025
