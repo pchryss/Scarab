@@ -24,12 +24,24 @@ Scarab is a project I have been wanting to work on for over a year now, and this
 
 ## 📸 Dev Log
 
+### July 2, 2025
+Since it was my first time building an RC car and I really had no clue where to start, I followed some guides online and built Scarab 1.0.
+
+This build has 3 major issues, which I plan to address in 2.0
+1. No space for a camera / brain
+2. Using zipties to hold wheels in place resulted in heavy drift while driving straight
+3. No wire management -> visually unappealing
+4. Controlled via an IR sensor (not very autonomous imo)
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/5_scarab.png" alt="scarab 1.0" height="200"/>
+</div>
+
 ### June 27, 2025
 Bought a 3D printer! It took a couple days to get consistently good prints, but I ended up with a solid print of a car chassis I found online
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/4_printer.png" alt="raspi with arduino red" height="200"/>
-  <img src="images/4_prints.png" alt="raspi with arduino red" height="200"/>
-  <img src="images/4_chassis.png" alt="raspi with arduino red" height="200"/>
+  <img src="images/4_printer.png" alt="3d printer" height="200"/>
+  <img src="images/4_prints.png" alt="a bunch of 3d prints" height="200"/>
+  <img src="images/4_chassis.png" alt="3d printed chassis" height="200"/>
 </div>
 
 ### June 7, 2025
@@ -43,7 +55,7 @@ Created a Python script w/ OpenCV to track a blue ping pong ball, and send contr
 Tested serial communication between the pi and arduino for the first time with a little circuit (left of camera -> red, right of camera -> blue)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="images/2_red.PNG" alt="raspi with arduino red" height="200"/>
-  <img src="images/2_blue.PNG" alt="raspi with arduino red" height="200"/>
+  <img src="images/2_blue.PNG" alt="raspi with arduino blue" height="200"/>
 </div>
 
 ### May 26, 2025
