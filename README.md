@@ -24,6 +24,31 @@ Scarab is a project I have been wanting to work on for over a year now, and this
 
 ## 📸 Dev Log
 
+### August 18, 2025
+Began training a model using reinforcement learning on a Unity mlagents simulation.
+Curriculum approach
+1. Taught the cube to hit the ball
+2. Taught the cube to hit the ball in the direction of the goal (the entire wall was the goal)
+3. Shrunk the goal size
+4. Added rounded corners to the walls 
+5. Shrunk the goal size even more
+
+One mistake : I never tested the environment manually first before testing. Once I hit a point of satisfaction with the training,
+I decided to watch the model in real-time and noticed two big problems
+1. The cube was toppling over due to physics instead of sliding
+2. The cube was moving WAY too fast
+
+Although the cube is pretty good at hitting the ball into the goal, these two factors capped the ceiling of the model. 
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/8_full.png" alt="largest goal" height="200"/>
+  <img src="images/8_small.png" alt="smaller goal" height="200"/>
+  <img src="images/8_columns.png" alt="walls have columns" height="200"/>
+  <img src="images/8_smallest.png" alt="smallest goal size" height="200"/>
+  <img src="images/8_training.png" alt="training view" height="200"/>
+
+</div>
+
 ### July 11, 2025
 Built 2.0!
 Fixed a lot of the issues that I noted in 1.0. To test it out I was able
