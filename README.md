@@ -47,7 +47,9 @@ Although the cube is pretty good at hitting the ball into the goal, these two fa
   <img src="images/8_smallest.png" alt="smallest goal size" height="200"/>
   <img src="images/8_training.png" alt="training view" height="200"/>
 </div>
-[Model in action](https://go.screenpal.com/watch/cTjqIrn2tQx)
+<p>
+  <a href="https://go.screenpal.com/watch/cTjqIrn2tQx" target="_blank">Model in action</a>
+</p>
 
 ### July 11, 2025
 Built 2.0!
