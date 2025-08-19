@@ -42,11 +42,11 @@ Although the cube is pretty good at hitting the ball into the goal, these two fa
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="images/8_full.png" alt="largest goal" height="200"/>
-  <img src="images/8_small.png" alt="smaller goal" height="200"/>
+  <img src="images/8_smaller.png" alt="smaller goal" height="200"/>
   <img src="images/8_columns.png" alt="walls have columns" height="200"/>
   <img src="images/8_smallest.png" alt="smallest goal size" height="200"/>
   <img src="images/8_training.png" alt="training view" height="200"/>
-  https://github.com/user-attachments/assets/e314048c-ece6-44ae-a7ed-ed8229713a3e
+  ### ▶️ [Model in action](https://go.screenpal.com/watch/cTjqIrn2tQx)
 </div>
 
 ### July 11, 2025
